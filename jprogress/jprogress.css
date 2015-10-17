@@ -4,8 +4,8 @@
     margin-bottom: 5px;
 }
 .progress_single {
-    padding: 10px;
     width: 0;
     color: white;
     font-family: inherit;
+    padding: 10px;
 }
